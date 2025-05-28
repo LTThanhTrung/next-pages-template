@@ -21,10 +21,12 @@
     "storybook:build": "storybook build"
   },
   "dependencies": {
+    "@axieinfinity/mixer": "^1.4.6",
     "@mantine/core": "8.0.1",
     "@mantine/hooks": "8.0.1",
     "@next/bundle-analyzer": "^15.2.3",
     "@tabler/icons-react": "^3.31.0",
+    "axios": "^1.9.0",
     "next": "15.2.3",
     "react": "19.1.0",
     "react-dom": "19.1.0"
